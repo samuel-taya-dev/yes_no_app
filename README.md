@@ -39,20 +39,24 @@ This project is part of my mobile development learning journey through **DevTall
 Follow these steps to run the project locally:
 
 1. **Clone the repository:**
-
+```bash
 git clone https://github.com/samuel-taya-dev/yes_no_app
+```
 
 2. **Navigate to the project directory:**
-
+```bash
 cd yes_no_app
+```
 
 3. **Install dependencies:**
-
+```bash
 flutter pub get
+```
 
 4. **Run the aplication:**
-
+```bash
 flutter run
+```
 
 ---
 
